@@ -7,7 +7,7 @@ python:
     - 3.8
     - 3.9
     
- arch:
+arch:
     - arm64
     - amd64
     - ppc64le
